@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👩🏻‍💻 Adan Martin
 
-<!--
-**AdansMaartiins/AdansMaartiins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Backend`**
 
-Here are some ideas to get you started:
+Adan Martin, estudando desenvolvimento com foco em Java. Atualmente aprendendo lógica de programação, orientação a objetos e banco de dados, colocando em prática o que estudo através de projetos para evoluir na programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### ⚙️ Back-end & Dados
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,postgres" />
+</p>
+
+#### 🔧 Ferramentas & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,linux" />
+</p>
+
+---
+
+### 🔭 Projetos em Destaque 
+
+#### ⚙️ Back-end 
+
+---
+
+### 📊 Estatísticas e Atividade
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdansMaartiins&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdansMaartiins&theme=tokyonight&hide_border=true&background=0D1117" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdansMaartiins&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+</p>
