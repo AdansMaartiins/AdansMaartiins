@@ -22,6 +22,11 @@ Estudando desenvolvimento com foco em Java. Atualmente aprendendo lógica de pro
 
 #### ⚙️ Back-end 
 
+* 📚 **[Sistema de Biblioteca]()** <br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/POO-8A2BE2?style=flat-square&logoColor=white" /><br>
+  **O que é:** Sistema de biblioteca desenvolvido em Java com funcionalidades de cadastro, empréstimo e devolução de livros.<br>
+  **Destaque Técnico:** Aplicação de orientação a objetos, controle de estado dos empréstimos e lógica de negócio para validação de operações.
 ---
 
 ### 📊 Estatísticas e Atividade
