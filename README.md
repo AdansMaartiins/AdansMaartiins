@@ -34,6 +34,3 @@ Estudando desenvolvimento com foco em Java. Atualmente aprendendo lógica de pro
   <img src="https://github-readme-stats.vercel.app/api?username=AdansMaartiins&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdansMaartiins&theme=tokyonight&hide_border=true&background=0D1117" height="150" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdansMaartiins&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-</p>
