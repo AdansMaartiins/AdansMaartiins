@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Adan Martin
 
-**`Desenvolvedor Backend em formação`**
-
-Estudando desenvolvimento com foco em Java. Atualmente aprendendo lógica de programação, orientação a objetos e banco de dados, colocando em prática o que estudo através de projetos para evoluir na programação.
+Estudante de Ciência da Computação com foco em infraestrutura, redes e suporte
+técnico. Possuo conhecimentos em Linux, Windows, diagnóstico de redes TCP/IP,
+SSH, DNS, serviços e manutenção de computadores.
 
 ---
 
@@ -25,8 +25,9 @@ Estudando desenvolvimento com foco em Java. Atualmente aprendendo lógica de pro
 * 🖥️ **[Rede corporativa](https://github.com/AdansMaartiins/Pequena-Rede-Corporativa)** <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> 
   <img src="https://img.shields.io/badge/POO-8A2BE2?style=flat-square&logoColor=white" /><br>
-  **O que é:** Sistema de biblioteca desenvolvido em Java com funcionalidades de cadastro, empréstimo e devolução de livros.<br>
-  **Destaque Técnico:** Aplicação de orientação a objetos, controle de estado dos empréstimos e lógica de negócio para validação de operações.
+  **O que é:** Ambiente corporativo simulado no Cisco Packet Tracer com múltiplos departamentos, servidores, dispositivos cabeados e sem fio, reproduzindo cenários comuns de infraestrutura de redes.<br>
+  
+  **Destaque Técnico:** Configuração de sub-redes, roteamento entre departamentos, DHCP centralizado, DNS interno, Access Point corporativo, troubleshooting de conectividade e aplicação prática de conceitos TCP/IP, gateway, DHCP, DNS e RIP v2.
 
 #### ⚙️ Back-end 
 
@@ -34,6 +35,7 @@ Estudando desenvolvimento com foco em Java. Atualmente aprendendo lógica de pro
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> 
   <img src="https://img.shields.io/badge/POO-8A2BE2?style=flat-square&logoColor=white" /><br>
   **O que é:** Sistema de biblioteca desenvolvido em Java com funcionalidades de cadastro, empréstimo e devolução de livros.<br>
+  
   **Destaque Técnico:** Aplicação de orientação a objetos, controle de estado dos empréstimos e lógica de negócio para validação de operações.
 ---
 
